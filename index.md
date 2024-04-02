@@ -1,37 +1,40 @@
-## Welcome to GitHub Pages
+# 2024 Capstone 47
 
-You can use the [editor on GitHub](https://github.com/kookmin-sw/cap-template/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+2024년 47조 https://kookmin-sw.github.io/capstone-2024-47
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- 프로젝트명: Robinhood - 타겟팅 기능 개발 및 고도화
+- 팀: 47
+- 산학연계 자유 주제
+- 회사: Moloco (https://www.moloco.com)
 
-### Markdown
+## 프로젝트 소개
+RMP 사업의 Targeitng 기능을 고도화 하기 위해 Placement Targeting 기능을 도입합니다. 수요가 많거나 광고 효율이 높을 것으로 예상되는 영역에 광고가 노출 되도록 광고주가 수동으로 설정하여 광고를 집행 가능하게 합니다. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+## Abstract
+To advance the Targeitng feature of the RMP business, we introduce Placement Targeting, which enables advertisers to manually set advertisements to be exposed to areas where they are in high demand or are expected to be highly advertising efficient.
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+## 영상
+https://drive.google.com/file/d/1dIwFc-SL22i4L3_1yCAigNjBjd-Unhdw/view?usp=sharing
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+## 팀 소개
+| 이름 |프로필   | 역할  |깃허브   |
+|---|---|---|---|
+| Gihyeon Yang (양기현)(****1648)  |  ![ghprofile](https://avatars.githubusercontent.com/u/13868235?s=400&u=09c390155174dd0481439c6f4307af29104bc553&v=4) | Frontend, Admin service 개발  | https://github.com/dexterastin  |
+| Lina Roh (Group Product Manager)   |  n/a |  PM |  n/a |
+| Minsup Song  |  n/a |  UX Design |  n/a |
+| Imsung Choi (Staff Software Engineer, IC)  | n/a  | TL  |  https://github.com/imsung-moloco |
+| Hoseok Ryu (Softwarer Engineer II)  | n/a  |  Backend API |  https://github.com/rhs0266 |
+| Joonsan Kim (Data Engineer II)  | n/a  | Data  | https://github.com/joonsan-kim-moloco  |
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## 개발 환경 설정 및 사용법
 
-### Jekyll Themes
+TBA
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kookmin-sw/cap-template/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## 문서
+- 계획서: https://drive.google.com/drive/folders/1ouVTKWl9J7WYLbqHUZ1SJ9wr4CZOxbV6?usp=sharing
+- 중간보고서: https://drive.google.com/drive/folders/1wKlHEw1AjS7kXcX5lFVaCRqowneZSyUg?usp=sharing
+- 최종보고서: TBD
