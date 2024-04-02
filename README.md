@@ -20,12 +20,12 @@ To advance the Targeitng feature of the RMP business, we introduce Placement Tar
 ## 영상
 
 [Google Drive](https://drive.google.com/file/d/1dIwFc-SL22i4L3_1yCAigNjBjd-Unhdw/view?usp=sharing)
-
+  
 
 ## 팀 소개
 
 | 이름                                      | 프로필                                                                                                                                      | 역할                         | 깃허브                                        |
-| ----------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------- | --------------------------------------------- |
+|-------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------|------------------------------|-----------------------------------------------|
 | Gihyeon Yang (양기현)(****1648)           | <img src="https://avatars.githubusercontent.com/u/13868235?s=400&u=09c390155174dd0481439c6f4307af29104bc553&v=4" width="100" height="100"/> | Frontend, Admin service 개발 | [Link](https://github.com/dexterastin)        |
 | Lina Roh (Group Product Manager)          | n/a                                                                                                                                         | PM                           | n/a                                           |
 | Minsup Song                               | n/a                                                                                                                                         | UX Design                    | n/a                                           |

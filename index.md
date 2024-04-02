@@ -24,14 +24,14 @@ To advance the Targeitng feature of the RMP business, we introduce Placement Tar
 
 ## 팀 소개
 
-| 이름                                      | 프로필 | 역할                         | 깃허브                                        |
-|-------------------------------------------|--------|------------------------------|-----------------------------------------------|
-| Gihyeon Yang (양기현)(****1648)           | n/a    | Frontend, Admin service 개발 | [Link](https://github.com/dexterastin)        |
-| Lina Roh (Group Product Manager)          | n/a    | PM                           | n/a                                           |
-| Minsup Song                               | n/a    | UX Design                    | n/a                                           |
-| Imsung Choi (Staff Software Engineer, IC) | n/a    | TL                           | [Link](https://github.com/imsung-moloco)      |
-| Hoseok Ryu (Softwarer Engineer II)        | n/a    | Backend API                  | [Link](https://github.com/rhs0266)            |
-| Joonsan Kim (Data Engineer II)            | n/a    | Data                         | [Link](https://github.com/joonsan-kim-moloco) |
+| 이름                                      | 프로필                                                                                                                                      | 역할                         | 깃허브                                        |
+|-------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------|------------------------------|-----------------------------------------------|
+| Gihyeon Yang (양기현)(****1648)           | <img src="https://avatars.githubusercontent.com/u/13868235?s=400&u=09c390155174dd0481439c6f4307af29104bc553&v=4" width="100" height="100"/> | Frontend, Admin service 개발 | [Link](https://github.com/dexterastin)        |
+| Lina Roh (Group Product Manager)          | n/a                                                                                                                                         | PM                           | n/a                                           |
+| Minsup Song                               | n/a                                                                                                                                         | UX Design                    | n/a                                           |
+| Imsung Choi (Staff Software Engineer, IC) | n/a                                                                                                                                         | TL                           | [Link](https://github.com/imsung-moloco)      |
+| Hoseok Ryu (Softwarer Engineer II)        | n/a                                                                                                                                         | Backend API                  | [Link](https://github.com/rhs0266)            |
+| Joonsan Kim (Data Engineer II)            | n/a                                                                                                                                         | Data                         | [Link](https://github.com/joonsan-kim-moloco) |
 
 
 ## 개발 환경 설정 및 사용법
