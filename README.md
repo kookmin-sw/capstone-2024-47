@@ -21,6 +21,10 @@ To advance the Targeitng feature of the RMP business, we introduce Placement Tar
 
 [Google Drive](https://drive.google.com/file/d/1dIwFc-SL22i4L3_1yCAigNjBjd-Unhdw/view?usp=sharing)
   
+## Poster
+[캡스톤-팀47.pdf](https://github.com/kookmin-sw/capstone-2024-47/files/15416908/-.47.pdf)
+
+
 
 ## 팀 소개
 
